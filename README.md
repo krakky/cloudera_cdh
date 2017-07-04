@@ -8,7 +8,7 @@ CDH is Cloudera's 100% open source platform distribution, including Apache Hadoo
 Refer to the [LICENSE](https://github.com/krakky/cloudera_cdh/blob/master/LICENSE) file for more info !
 
 # Requirements
-- awaiting mighty Erenis !
+- [Resource Requirements for CDH](https://www.cloudera.com/documentation/enterprise/release-notes/topics/rn_consolidated_pcm.html#concept_kr3_w13_hw)
 
 # Supported OS
 - CentOS 6.x & CentOS 7.x
